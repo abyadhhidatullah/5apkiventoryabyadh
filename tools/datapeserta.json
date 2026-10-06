@@ -1,0 +1,19 @@
+ {
+        "id": 221,
+        "nama_lengkap": "abyadh hidayatullah",
+        "tempat_lahir": "karang baru",
+        "tanggal_lahir": "2009-09-26",
+        "alamat": "tanjung seumantoh",
+        "email": "abyadh hidayatullah@guru.smk.belajar.id",
+        "no_hp": "0827126873123",
+        "sekolah": "SMKN 1 Karang Baru",
+        "jurusan": "Rekayasa Perangkat Lunak",
+        "skills": [
+            "HTML",
+            "PHP",
+            "Python"
+        ],
+        "cita_cita": "Web developer, Cybler Security",
+        "foto": "peserta_2_1789576669.png",
+        "tanggal_buat": "2026-09-16 15:50:59"
+    }
